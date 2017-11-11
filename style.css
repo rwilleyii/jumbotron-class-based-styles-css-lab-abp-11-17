@@ -57,6 +57,6 @@ div.jumbotron{
   text-align: center;
 }
 
-div.jumbotron h1{
+h1#div.jumbotron{
   font-size: 60px;
 }
